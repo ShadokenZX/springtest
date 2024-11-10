@@ -1,4 +1,4 @@
-package com.gautam.springtest.config;
+/*package com.gautam.springtest.config;
 
 import com.gautam.springtest.services.BlueText;
 import com.gautam.springtest.services.ColorText;
@@ -37,3 +37,6 @@ public class ColorConfig {
 
 
 }
+*/
+
+//One way of doing it , can also do it using components
